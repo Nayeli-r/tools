@@ -15,7 +15,7 @@ tasks require a root user.  Do the following to grab the repositories
 
     # pkg install git
     # cd /usr
-    # git clone https://github.com/opnsense/tools
+    # git clone https://github.com/Nayeli-r/tools
     # cd tools
     # make update
 
